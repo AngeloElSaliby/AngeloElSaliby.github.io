@@ -13,9 +13,8 @@ I am a Master's student at the University of Trieste, currently on track to get 
 
 ## News
 
-- **[Feb. 2020]** My first preprint on arXiv! 
+- **[May. 2025]** My first preprint on arXiv! 
 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
