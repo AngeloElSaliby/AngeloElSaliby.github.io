@@ -5,11 +5,9 @@ layout: homepage
 
 ## About Me
 
-I am a Master's student at the University of Trieste, currently on track to get my degree in _Advanced Mathematics_ by March, 2025 with the top grade. I have a profound passion for discovery and abstraction in Mathematics, mainly in algebraic geomtry and computational algebra. Please feel free to contact me for any position in this or adjacent fields. I visited Berlin in August and fell in love with the city, so being close to it is a bonus.
-## Research Interests
+I am a Master's student at the University of Trieste, on track to graduate in July, 2025 and with a very successful academic record. I have long had a deep fascination with algebra and geometry, and through many courses at the University and at SISSA I had the opportunity to learn about algebraic geometry and computational algebra. In November, 2024 I participated in the "Macaulay2 in the Sciences" workshop at MPI MIS in Leipzig where I learned about the many and widely different applications of these fields, and together with that group we have published a package for research in signature varieties. My most recent courses have taken me into a journey in scheme theory and derived functors. I am currently looking for a PhD position, feel free to contact me to discuss this further!
 
-- **Computational Algebra:** I was exposed to this field last year thorough an introductory course on Groebner basis and their applications. Currently, in my Master's thesis work I am delving into the combinatorial aspects of _Graph rigidity_, focusing on the recent proof of  
-- **Algebraic Geometry:** 
+
 
 ## News
 
@@ -17,4 +15,3 @@ I am a Master's student at the University of Trieste, currently on track to get 
 
 
 {% include_relative _includes/publications.md %}
-
