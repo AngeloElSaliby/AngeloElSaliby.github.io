@@ -17,5 +17,5 @@ I am a PhD student at the Max Plank Institute for Mathematics in the Sciences in
 - **[November, 2024]** Partecipated in the "Macaulay2 in the sciences" workshop at MPI MSI, Leipzig.
 
 ## Events and activities
-- [**Reading group: Applied Toric Varities**](./reading_group.html)
+- **Reading group:** [Applied Toric Varities](https://angeloelsaliby.github.io/AppliedToricGeometry-ReadingGroup/)
 {% include_relative _includes/publications.md %}
