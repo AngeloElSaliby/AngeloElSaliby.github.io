@@ -9,7 +9,7 @@ I am a PhD student at the Max Plank Institute for Mathematics in the Sciences in
 
 
 ## News
-**[March, 2026]** Contributed a talk at the  ["Workshop on Real Applied Algebra"](https://www.math.ku.dk/english/calendar/events/workshop-on-real-applied-algebra/) at University of Copenhagen.
+- **[March, 2026]** Contributed a talk at the  ["Workshop on Real Applied Algebra"](https://www.math.ku.dk/english/calendar/events/workshop-on-real-applied-algebra/) at University of Copenhagen.
 - **[March, 2026]** Attended ["AlgStat2026"](https://www.mathconf.org/algstat2026), University of Lille.
 - **[March, 2026]** Attended ["IMPRS Combo V"](https://www.mis.mpg.de/events/series/imprs-combo-v), MPI MiS Leipzig.
 - **[February, 2026]** Attended ["3rd MPI (Dresden + Leipzig) Day"](https://www.mis.mpg.de/de/events/series/3rd-mpi-dresden-leipzig-day), MPI MiS Leipzig.
