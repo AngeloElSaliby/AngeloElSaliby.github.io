@@ -1,13 +1,11 @@
 main:
-
   - title: Computing Path Signature Varieties in Macaulay2
     authors: Carlos Améndola, Angelo El Saliby, Felix Lotter, Oriol Reig Fité
     pdf: https://arxiv.org/pdf/2506.01429
     code: 
-    notes: Accepted on _JSAG_
- 
+    notes: Accepted on JSAG
   - title: Highly regular vertex-transitive graphs are globally rigid
     authors: Angelo El Saliby
     pdf: https://arxiv.org/pdf/2601.11240
     code: 
-    notes: Preprint, _submitted to J. of Graph Theory_
+    notes: Preprint, submitted to J. of Graph Theory
